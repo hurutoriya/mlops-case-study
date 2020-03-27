@@ -8,7 +8,9 @@ They are bound up in each other.
 
 
 ## MLOps article
-- [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) in GCP
+- [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) by GCP
+- [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) by Google
+- [Rules of Machine Learning: Best Practices for ML Engineering] in Google's best practices in machine learning. 
 
 ## Podcast
 - [twiml](https://twimlai.com/)
