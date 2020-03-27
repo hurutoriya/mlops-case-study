@@ -13,6 +13,9 @@ They are bound up in each other.
 - [Rules of Machine Learning: Best Practices for ML Engineering] in Google's best practices in machine learning. 
 - [Linux Foundation AI](https://lfai.foundation/)
 
+### Machine Learning Platfrom and OSS
+- [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
+
 ## Company Blog
 - [Amazon Science](https://www.amazon.science/)
 
