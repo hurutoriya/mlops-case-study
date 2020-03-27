@@ -8,6 +8,10 @@ They are bound up in each other.
 
 
 ## MLOps article
+- [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) in GCP
+
+## Podcast
+- [twiml](https://twimlai.com/)
 
 ## Company Blog
 - [Amazon Science](https://www.amazon.science/)
