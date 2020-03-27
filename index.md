@@ -11,9 +11,7 @@ They are bound up in each other.
 - [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) by GCP
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) by Google
 - [Rules of Machine Learning: Best Practices for ML Engineering] in Google's best practices in machine learning. 
-
-## Podcast
-- [twiml](https://twimlai.com/)
+- [Linux Foundation AI](https://lfai.foundation/)
 
 ## Company Blog
 - [Amazon Science](https://www.amazon.science/)
@@ -28,8 +26,7 @@ They are bound up in each other.
 - 2017
   - [Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2017icml/) in ICML 2017 Workshop
 - 2016
-  - [Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2016nips/) in NIPS 2016 Workshop
-  
+  - [Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2016nips/) in NIPS 2016 Workshop 
 
 ### Industory
 
@@ -45,6 +42,9 @@ They are bound up in each other.
 ## Research paper
 
 - [What’s your ML test score? A rubric for ML production systems](https://research.google/pubs/pub45742/)
+
+## Podcast
+- [twiml](https://twimlai.com/)
 
 ### Support or Contact
 
