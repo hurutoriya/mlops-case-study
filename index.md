@@ -1,9 +1,9 @@
 # Welcome to MLOps Case Study
 
-This page collect MLOps case study to spread knolwge of MLOps.
+This page collects MLOps case study to spread knowledge of MLOps.
 It might be help to Success your Machine Learning project!
 
-This Page coverd MLOps & ML Enginnering & Applied DataScience.
+This Page covers MLOps & ML Enginnering & Applied DataScience.
 They are bound up in each other.
 
 
@@ -21,7 +21,7 @@ They are bound up in each other.
 
 ## International Conference and Workshop of MLOps, MLEng and Applied DataScience
 
-### Academic industory track
+### Academic industry track
 - 2020
   - [ECNLP 2](https://sites.google.com/view/ecnlp/www-2020) in WWW2020
 - 2019
@@ -31,7 +31,7 @@ They are bound up in each other.
 - 2016
   - [Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2016nips/) in NIPS 2016 Workshop 
 
-### Industory
+### Industry
 
 - 2020
   - [OpML20](https://www.usenix.org/conference/opml20)
@@ -52,4 +52,4 @@ They are bound up in each other.
 ### Support or Contact
 
 Having trouble with Pages?
-Please make issuess :+1:
+Please make issues :+1:
