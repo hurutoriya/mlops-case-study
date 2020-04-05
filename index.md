@@ -10,7 +10,7 @@ They are bound up in each other.
 ## MLOps article
 - [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) by GCP
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) by Google
-- [Rules of Machine Learning: Best Practices for ML Engineering] in Google's best practices in machine learning. 
+- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) in Google's best practices in machine learning. 
 - [Linux Foundation AI](https://lfai.foundation/)
 
 ### Machine Learning Platfrom and OSS
