@@ -41,6 +41,8 @@ They are bound up in each other.
 - 2019
   - [MLOpsNYC](https://www.mlopsnyc.com/)
   - [OpML19](https://www.usenix.org/conference/opml19)
+  - [Qcon.ai 2019](https://qcon.ai/schedule/qconai2019/tabular)
+  - [MLConf 2019 Sanfrancisco](https://mlconf.com/sessions/?event=mlconf-2019-sf&search=)
 
 ## Research paper
 
