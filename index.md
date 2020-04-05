@@ -12,12 +12,14 @@ They are bound up in each other.
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) by Google
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) in Google's best practices in machine learning. 
 - [Linux Foundation AI](https://lfai.foundation/)
+- [The People + AI Guidebook](https://pair.withgoogle.com/guidebook/) was written to help user experience (UX) professionals and product managers follow a human-centered approach to AI.
 
 ### Machine Learning Platfrom and OSS
 - [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
 
 ## Company Blog
 - [Amazon Science](https://www.amazon.science/)
+- [Google AI](https://ai.google/)
 
 ## International Conference and Workshop of MLOps, MLEng and Applied DataScience
 
