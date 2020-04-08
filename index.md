@@ -17,9 +17,10 @@ They are bound up in each other.
 ### Machine Learning Platfrom and OSS
 - [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
 
-## Company Blog
+## Company Blog & Publication
 - [Amazon Science](https://www.amazon.science/)
 - [Google AI](https://ai.google/)
+- [Etsy | Data Science & Machine Learning ](https://www.dsml.etsy.com/publications)
 
 ## International Conference and Workshop of MLOps, MLEng and Applied DataScience
 
