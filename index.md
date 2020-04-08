@@ -20,7 +20,7 @@ They are bound up in each other.
 ## Company Blog & Publication
 - [Amazon Science](https://www.amazon.science/)
 - [Google AI](https://ai.google/)
-- [Etsy | Data Science & Machine Learning ](https://www.dsml.etsy.com/publications)
+- [Etsy  Data Science & Machine Learning ](https://www.dsml.etsy.com/publications)
 
 ## International Conference and Workshop of MLOps, MLEng and Applied DataScience
 
