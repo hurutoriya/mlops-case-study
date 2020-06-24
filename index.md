@@ -31,6 +31,7 @@ They are bound up in each other.
   - [SIGIR eCom2019](https://sigir-ecom.github.io/)
 - 2017
   - [Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2017icml/) in ICML 2017 Workshop
+  - [Workshop on ML Systems](http://learningsys.org/nips17/acceptedpapers.html) at NIPS 2017
 - 2016
   - [Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2016nips/) in NIPS 2016 Workshop 
 
