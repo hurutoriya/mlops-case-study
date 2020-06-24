@@ -55,6 +55,7 @@ They are bound up in each other.
 
 ## Podcast
 - [twiml](https://twimlai.com/)
+- [MLOps.community](https://anchor.fm/mlops/)
 
 ### Support or Contact
 
