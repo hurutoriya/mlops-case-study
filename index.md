@@ -16,6 +16,7 @@ They are bound up in each other.
 
 ### Machine Learning Platfrom and OSS
 - [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
+- [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/)
 
 ## Company Blog & Publication
 - [Amazon Science](https://www.amazon.science/)
