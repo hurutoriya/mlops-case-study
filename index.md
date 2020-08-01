@@ -44,6 +44,7 @@ They are bound up in each other.
   - [MLSys2020](https://mlsys.org/)
   - [TWIMLcon](https://twimlcon.com/)
 - 2019
+  - [Workshop on systems for ML at NeurlIPS2019](http://learningsys.org/neurips19/)
   - [MLOpsNYC](https://www.mlopsnyc.com/)
   - [OpML19](https://www.usenix.org/conference/opml19)
   - [Qcon.ai 2019](https://qcon.ai/schedule/qconai2019/tabular)
